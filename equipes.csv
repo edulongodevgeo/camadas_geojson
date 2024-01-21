@@ -1,0 +1,126 @@
+id_equipe,equipe,serie,id_estadio
+1,Athletico Paranaense,A,1
+2,Atlético Goianiense,A,2
+3,Atlético Mineiro,A,3
+4,Bahia,A,4
+5,Botafogo,A,5
+6,Corinthians,A,6
+7,Criciúma,A,7
+8,Cruzeiro,A,8
+9,Cuiabá,A,9
+10,Flamengo,A,10
+11,Fluminense,A,10
+12,Fortaleza,A,11
+13,Grêmio,A,12
+14,Internacional,A,13
+15,Juventude,A,14
+16,Palmeiras,A,15
+17,Red Bull Bragantino,A,16
+18,São Paulo,A,17
+19,Vasco da Gama,A,18
+20,Vitória,A,19
+21,Amazonas,B,20
+22,América Mineiro,B,21
+23,Avaí,B,22
+24,Botafogo-SP,B,23
+25,Brusque,B,24
+26,Ceará,B,11
+27,Chapecoense,B,25
+28,Coritiba,B,26
+29,CRB,B,27
+30,Goiás,B,28
+31,Guarani,B,29
+32,Ituano,B,30
+33,Mirassol,B,31
+34,Novorizontino,B,32
+35,Operário-PR,B,33
+36,Paysandu,B,34
+37,Ponte Preta,B,35
+38,Santos,B,36
+39,Sport,B,37
+40,Vila Nova,B,38
+41,ABC,C,39
+42,Aparecidense,C,40
+43,Athletic-MG,C,41
+44,Botafogo-PB,C,42
+45,Caxias,C,43
+46,Confiança,C,44
+47,CSA,C,27
+48,Ferroviária,C,45
+49,Ferroviário,C,46
+50,Figueirense,C,47
+51,Floresta,C,46
+52,Londrina,C,48
+53,Náutico,C,49
+54,Remo,C,50
+55,Sampaio Corrêa,C,51
+56,São Bernardo,C,52
+57,São José-RS,C,53
+58,Tombense,C,42
+59,Volta Redonda,C,54
+60,Ypiranga de Erechim,C,55
+61,Água Santa,D,56
+62,Águia de Marabá,D,57
+63,Altos,D,58
+64,América de Natal,D,59
+65,Anápolis,D,60
+66,ASA,D,61
+67,Atlético Cearense,D,46
+68,Audax Rio,D,62
+69,Avenida,D,63
+70,Barra-SC,D,64
+71,Brasil de Pelotas,D,65
+72,Brasiliense,D,66
+73,Cametá,D,67
+74,Capital,D,68
+75,Cianorte,D,69
+76,Concórdia,D,70
+77,Costa Rica,D,71
+78,CRAC,D,72
+79,CSE,D,73
+80,Democrata GV,D,74
+81,FC Cascavel,D,75
+82,Fluminense-PI,D,76
+83,Hercílio Luz,D,64
+84,Humaitá,D,77
+85,Iguatu,D,78
+86,Inter de Limeira,D,79
+87,Ipatinga,D,80
+88,Iporá,D,81
+89,Itabaiana,D,82
+90,Itabuna,D,83
+91,Jacuipense,D,84
+92,Juazeirense,D,85
+93,Manauara,D,86
+94,Manaus,D,87
+95,Maracanã-CE,D,88
+96,Maranhão,D,89
+97,Maringá,D,90
+98,Mixto,D,91
+99,Moto Club,D,89
+100,Nova Iguaçu,D,92
+101,Novo Hamburgo,D,93
+102,Petrolina,D,94
+103,Porto Velho,D,95
+104,Portuguesa-RJ,D,96
+105,Potiguar de Mossoró,D,97
+106,Pouso Alegre,D,98
+107,Princesa do Solimões,D,99
+108,Real Brasília,D,100
+109,Real Noroeste,D,101
+110,Retrô,D,102
+111,Rio Branco-AC,D,77
+112,River-PI,D,76
+113,Santa Cruz de Natal,D,59
+114,Santo André,D,103
+115,São José-SP,D,104
+116,São Raimundo-RR,D,105
+117,Sergipe,D,44
+118,Serra,D,106
+119,Sousa,D,107
+120,Tocantinópolis,D,83
+121,Trem,D,108
+122,Treze,D,109
+123,União Rondonópolis,D,110
+124,Villa Nova,D,111
+125,TESTE,Nenhuma,112
